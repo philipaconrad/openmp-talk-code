@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <time.h> // time()
 #include <math.h> // sqrt()
-#include <omp.h>
 
 
 void show_help() {
